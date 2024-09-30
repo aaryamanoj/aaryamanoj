@@ -1,7 +1,4 @@
-Hey there! 👋
 
-
-I'm a Computer Science student at Yenepoya Institute of Technology, passionate about tech and innovation. I'm always open to connecting with like-minded individuals and exploring exciting collaboration opportunities. Let’s create something amazing together!
 
 <h1 align="center">Hey there! 👋, I'm ARYA A</h1>
 <div>
@@ -10,6 +7,7 @@ I'm a Computer Science student at Yenepoya Institute of Technology, passionate a
 
 </div>
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"Amanastel" />
 </div>
 
 <!-- 
@@ -34,11 +32,11 @@ I'm a Computer Science student at Yenepoya Institute of Technology, passionate a
 
  ## 🙋‍♂️ About Me
 
-- 👯 I’m looking to work as **Software Developer**
+- 👯 I’m looking to work as **Software Develope**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Amanastel?tab=repositories)**
-- My Portfolio **[My Portfolio](https://amanastel.github.io/)**
-- 📫 How to reach me **amankumar.ak0012@gmail.com**
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/aaryamanoj?tab=repositories)**
+- My Portfolio **[My Portfolio](https://aaryamanoj.github.io/)**
+- 📫 How to reach me **aryamanojk29@gmail.com**
 - ⚡ Fun fact :Did you know that the name "Java" was inspired by the Java coffee, which was consumed in large quantities by the language's creators during its development? The original     name for the language was supposed to be "Oak," but due to trademark issues, it was changed to "Java." Additionally, the first public release of Java, known as JDK 1.0, was       
     launched on January 23, 1996.
 
