@@ -219,6 +219,8 @@
 
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaryamnaoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 <br>
 
