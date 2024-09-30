@@ -7,7 +7,7 @@
 
 </div>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"Amanastel" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryamanoj&label=Profile%20views&color=0e75b6&style=flat" alt"Aaryamanoj" />
 </div>
 
 <!-- 
@@ -37,8 +37,7 @@
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/aaryamanoj?tab=repositories)**
 - My Portfolio **[My Portfolio](https://aaryamanoj.github.io/)**
 - 📫 How to reach me **aryamanojk29@gmail.com**
-- ⚡ Fun fact :Did you know that the name "Java" was inspired by the Java coffee, which was consumed in large quantities by the language's creators during its development? The original     name for the language was supposed to be "Oak," but due to trademark issues, it was changed to "Java." Additionally, the first public release of Java, known as JDK 1.0, was       
-    launched on January 23, 1996.
+- ⚡ Fun fact :Did you know that the Django web framework is named after Django Reinhardt, a famous Belgian jazz guitarist? The creators of Django were big fans of his music. Just as Django Reinhardt was known for his skill and speed, the framework was designed to help developers build web applications quickly and efficiently!
 
 - 🌎 Today’s the day: let’s write some code and change the world 🌎
 
@@ -213,21 +212,21 @@
 
 <!-- Total Stats
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=gotham&hide_border=false)<br/>
 
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaryamnaoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
 ## ⚡ Activity Graph
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true"/>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true"/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aarymanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
  -->
