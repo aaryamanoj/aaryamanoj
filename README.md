@@ -253,7 +253,7 @@
 </p> -->
    
    
-<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
+<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
   <br/>
  <br/>  
 
@@ -265,7 +265,7 @@
 </div>
  <br/>  
 <div align="right"> 
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
+ <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="aaryamanoj" /></a>
  </div>
   -->
   
@@ -278,21 +278,21 @@
 </h2>
  </h2>
  <p align="center">
-<a href="https://github.com/amanastel">
+<a href="https://github.com/aaryamanoj">
  </br>   
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=gotham&hide_border=false"/>
   
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="arya" width="46%" height="200px"/></p></div>
 <div>
 <!--top lang-->
 <p align="center"><img align="right" src=https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="arya" align="center" /></a>
 </p>
-<!--  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
+<!--  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=aaryamanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="arya"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p> -->
