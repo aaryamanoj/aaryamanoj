@@ -174,10 +174,7 @@
 <br>
  -->
 
- <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                              <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/amanastel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>           
+          
  
 
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
