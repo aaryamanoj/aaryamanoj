@@ -24,7 +24,7 @@
 
 <p> <a href="https://www.linkedin.com/in/aman-astel-18a543198/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
-  <a href="https://amanastel.github.io/" target="text-decoration:none">
+  <a href="https://aaryamanoj.github.io/" target="text-decoration:none">
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 </p>
@@ -258,12 +258,12 @@
  <div >
  
  <a  align="left" width="700px" href="https://github.com/amanastel"><img  width="350px" alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
+ <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aaryamanoj" /></a>
 
 </div>
  <br/>  
 <div align="right"> 
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
+ <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
  </div>
   -->
   
@@ -322,6 +322,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanoj&layout=compact&theme=radical)
 
 
