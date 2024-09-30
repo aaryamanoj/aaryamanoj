@@ -75,7 +75,7 @@
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="docker" />
-<br>gradle
+
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="maven" />
