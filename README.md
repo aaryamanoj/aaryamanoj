@@ -30,9 +30,9 @@
 </p>
 
 
- ## 🙋‍♂️ About Me
+ ## 🙋‍♀️ About Me
 
-- 👯 I’m looking to work as **Software Develope**
+- 👯 I’m looking to work as **Full stack developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/aaryamanoj?tab=repositories)**
 - My Portfolio **[My Portfolio](https://aaryamanoj.github.io/)**
@@ -278,17 +278,17 @@
  <p align="center">
 <a href="https://github.com/amanastel">
  </br>   
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=gotham&hide_border=false"/>
   
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
 <div>
 <!--top lang-->
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src=https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
 </p>
 <!--  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
    width ="100%"    align="center"
@@ -322,7 +322,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanoj&layout=compact&theme=radical)
 
 
