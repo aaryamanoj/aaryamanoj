@@ -73,11 +73,6 @@
 # 💻 My favorite tools and skills
 <table>
 <tr>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="maven" />
-<br>maven
-</td>
 <td align="center" width="96">
 <a href="#macropower-tech">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
@@ -85,23 +80,11 @@
 <br>java
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
-<br>docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
-<br>spring
-</td>
-<td align="center" width="96">
 <a href="#macropower-tech">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
 </a>
 <br>mysql
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" alt="icon" width="48" height="48" />
-<br>idea
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
 <br>firebase
