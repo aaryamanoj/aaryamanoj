@@ -1,9 +1,10 @@
-##Hello, folks!
+Hey there! 👋
 
 
-I’m a student at Yenepoya Institute of Technology, specializing in Computer Science. 
-I’d love to connect and explore exciting collaboration opportunities together!
+I'm a Computer Science student at Yenepoya Institute of Technology, passionate about tech and innovation. I'm always open to connecting with like-minded individuals and exploring exciting collaboration opportunities. Let’s create something amazing together!
 
 
-![MY GITHUB STATS ; ](https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanoj&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanoj&layout=compact&theme=radical)
+
+
