@@ -156,42 +156,16 @@
   <br/>
  
 <div>
-  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aryamanoj'sstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
+  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aryamanoj'sstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
  
 
 
-
-
-
-
-
-
-
-          
- 
-
- 
-               
-
-
- 
-
-
-
-  
-  
-
- <p align="center">
-<a href="https://github.com/aaryamanoj">
- </br>   
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=gotham&hide_border=false"/>
   
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="arya" width="46%" height="200px"/></p></div>
 <div>
-<top lang>
-<p align="center"><img align="right" src=https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
+
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="arya" align="center" /></a>
