@@ -165,7 +165,7 @@
 
  
 
- <div>
+ <!--div>
  
  <a  align="left" width="700px" href="https://github.com/aaryamanoj"><img  width="350px" alt="Arya 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanojl&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aaryamanoj" /></a>
@@ -174,7 +174,7 @@
  <br/>  
 <div align="right"> 
  <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="aaryamanoj" /></a>
- </div>
+ </div!-->
 
   
   
