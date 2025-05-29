@@ -151,19 +151,7 @@
 
 
 
-<Total Stats
- 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=gotham&hide_border=false)<br/>
-
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaryamnaoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
-<br>
 
 ## ⚡ Activity Graph
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true"/>
@@ -181,14 +169,7 @@
                
 
 
- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> 
-
-
-   
-   
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
-  <br/>
- <br/>  
+ 
 
  <div>
  
