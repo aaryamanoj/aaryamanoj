@@ -152,7 +152,7 @@
 
 
 <!-- Total Stats
-## 📊 GitHub Stats:
+ 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
@@ -181,17 +181,17 @@
                
 
 
-<!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
+< <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> >
 
-<!-- ## 📊 My Github Stats: -->
+<📊 My Github Stats: >
    
-<!--    <p align="center"> 
+<   <p align="center"> 
   <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
   <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
-</p> -->
+</p> >
    
    
-<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
+<  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
   <br/>
  <br/>  
 
@@ -230,14 +230,14 @@
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="arya" align="center" /></a>
 </p>
-<!--  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=aaryamanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="arya"
+<  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=aaryamanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="arya"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p> -->
-<!--  <p align="center">
+<  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
         width="100%" heigth="250px"
-      /></p> -->
+      /></p> >
 
 
   <br/>
