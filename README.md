@@ -153,14 +153,8 @@
 
 
 
-## ⚡ Activity Graph
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aarymanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
- -->
 
           
  
@@ -200,14 +194,7 @@
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="arya" align="center" /></a>
 </p>
-<  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=aaryamanoj&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="arya"
-   width ="100%"    align="center"
-         height="200px" 
-/></a> </p> -->
-<  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
-        width="100%" heigth="250px"
-      /></p> >
+
 
 
   <br/>
