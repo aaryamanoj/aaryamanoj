@@ -183,12 +183,7 @@
 
  <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> 
 
-<📊 My Github Stats: >
-   
-  <p align="center"> 
-  <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
-  <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
-</p> 
+
    
    
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
@@ -208,13 +203,7 @@
 
   
   
-<br/>
-<h2 align="center">
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
- My Github Stats 
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
-</h2>
- </h2>
+
  <p align="center">
 <a href="https://github.com/aaryamanoj">
  </br>   
