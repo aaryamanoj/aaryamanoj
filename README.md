@@ -148,6 +148,17 @@
 </td>
 </tr>
 </table>
+## 📊 My Github Stats
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/aaryamanoj/github-readme-stats"><img alt="Arya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavarjun182&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>
+  <br/>
+ 
+<div>
+  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yadavarjun182's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
+ 
+ <img align="right" alt="yadavarjun182's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yadavarjun182&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="48%"/> 
 
 
 
