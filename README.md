@@ -157,12 +157,11 @@
  
 <div>
   <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aryamanoj'sstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
- 
- 
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
 
 
- <img align="right" alt="Arya manoj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaryamanoja&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="48%"/> 
+
+<img align="right" alt="Arya Manoj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
+ 
   
 <div>
 
