@@ -163,7 +163,7 @@
   
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="arya" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="arya" width="46%" height="200px"/></p></div>
 <div>
 
 
