@@ -58,9 +58,9 @@
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <!--
+ <
   <a href = "https://www.instagram.com/aman_astel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  -->
+  >
 <a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1_CgcV_-BkE3kGg8he1r7j4YNAi8HUESy/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
 </p>
@@ -151,7 +151,7 @@
 
 
 
-<!-- Total Stats
+<Total Stats
  📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=aaryamanoj&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
@@ -181,21 +181,21 @@
                
 
 
-< <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> >
+ <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> 
 
 <📊 My Github Stats: >
    
-<   <p align="center"> 
+  <p align="center"> 
   <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
   <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
-</p> >
+</p> 
    
    
-<  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="aaryamanoj" /></p>
   <br/>
  <br/>  
 
- <div >
+ <div>
  
  <a  align="left" width="700px" href="https://github.com/aaryamanoj"><img  width="350px" alt="Arya 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanojl&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aaryamanoj" /></a>
@@ -205,7 +205,7 @@
 <div align="right"> 
  <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="aaryamanoj" /></a>
  </div>
-  -->
+
   
   
 <br/>
