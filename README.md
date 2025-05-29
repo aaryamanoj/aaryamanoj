@@ -159,22 +159,13 @@
           
  
 
-  <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
+  <My Github Stats>
                
 
 
  
 
- <!--div>
- 
- <a  align="left" width="700px" href="https://github.com/aaryamanoj"><img  width="350px" alt="Arya 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanojl&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aaryamanoj" /></a>
 
-</div>
- <br/>  
-<div align="right"> 
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=aaryamanoj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="aaryamanoj" /></a>
- </div!-->
 
   
   
@@ -191,7 +182,7 @@
 <top lang>
 <p align="center"><img align="right" src=https://github-readme-stats.vercel.app/api?username=aaryamanoj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
-<!--p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanoj&theme=gotham&hide_border=true" alt="arya" align="center" /></a>
 </p>
 
